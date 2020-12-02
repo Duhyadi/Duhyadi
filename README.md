@@ -1,5 +1,5 @@
 :octocat: :corn:
 
-Aquí vive la que intenta aprender bioinformática :octocat:
+Here lives the one who tries to learn bioinformatics :octocat:
 
-Fan del maíz :corn: :corn: :corn:
+Maize fan :corn: :corn: :corn:
