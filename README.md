@@ -1,6 +1,6 @@
-:octocat: :corn:
+¡Hello!:octocat: :corn:
 
-Here lives the one who tries to learn bioinformatics :octocat:
+Here lives the one who tries to learn bioinformatics, every day :octocat:
 
 Maize fan :corn: :corn: :corn:
 
