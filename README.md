@@ -1,4 +1,4 @@
-¡Hello!:octocat: :corn:
+¡Hello! :octocat: :corn:
 
 Here lives the one who tries to learn bioinformatics, every day :octocat:
 
